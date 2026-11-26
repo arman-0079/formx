@@ -1,0 +1,6 @@
+{
+  "name": "FormX",
+  "description": "Modern online form, survey, and quiz builder with drag-and-drop editing, custom themes, dual presentation modes, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
